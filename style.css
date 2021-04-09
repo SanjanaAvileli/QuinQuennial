@@ -1,0 +1,35 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  
+  #myTitle{
+   width: 40vw;
+   height: 30vh;
+   position: sticky;
+   left: 50vw;
+   right: 50vw;
+  }
+  
+  #myButton{
+  width: 10vw;
+  height: 20vh;
+  position: sticky;
+  left: 50vw;
+  right: 50vw;
+  }
+
+  #myButton:hover{
+   transform: scale(1.5,1.5);
+    }
+
+    #myArrow{
+width: 20vw;
+height: 20vw;
+position: sticky;
+   left: 50vw;
+   right: 50vw;
+    }
